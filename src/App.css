@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: rgb(212, 208, 208);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  margin-top: 30%;
+
+}
+
